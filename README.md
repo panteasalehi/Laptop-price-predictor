@@ -1,4 +1,4 @@
-This code is a machine learning model that predicts the price of computer based on various features such as CPU, hard drive, RAM, SSD, graphics RAM, screen size, and stock status.data is collected from https://torob.com/. 
+This code is a machine learning model that predicts the price of computer based on various features such as CPU, HDD, SSD, graphics RAM, screen size, and stock status. data is collected from https://torob.com/. 
 # Data Preprocessing
 
 The first step is to select the relevant features from the dataset and assign them to the X variable. The target variable, which is the price, is assigned to the y variable.
