@@ -13,6 +13,6 @@ The first step is to select the relevant features from the dataset and assign th
 # usage
 Ensure that you have the required libraries installed (pandas, numpy, xgboost, scikit-learn, ...).
 Provide the dataset path in the # Load data section.
-Run the script, and it will output that is consist of average training and validation errors.
+Run the script, and the output will be consist of average training and validation errors.
 The script also plots the learning curve, showing the training and validation errors for each fold.
 
